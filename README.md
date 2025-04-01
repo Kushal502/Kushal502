@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kushal Basnet
-- 👀 I’m interested in doing creative
+- 👀 I’m interested in doing creative works
 - 🌱 I’m currently learning computing systems
 - 💞️ I’m looking to collaborate on new AI projects
 - 📫 How to reach me socially?
