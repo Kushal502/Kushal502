@@ -1,39 +1,30 @@
 # Kushal Basnet
 
-Software Engineer • AI Enthusiast
+Computing Systems | Machine Learning
 
-I build dependable software and explore machine learning and computing systems. I focus on moving ideas from research to production, improving system reliability, and contributing to open-source AI projects.
+I build and experiment with systems-level software and small-scale ML projects. I focus on understanding how systems behave in practice and on turning ideas into working prototypes.
 
 ## Currently
-- Learning advanced computing systems and systems-level optimization.
-- Working on AI/ML projects that apply research to real-world problems.
+- Learning operating systems, distributed systems, and systems performance tuning.
+- Building small AI/ML projects and experiments to apply theory into practice.
 
-## Areas of Interest
-- Machine Learning & Deep Learning
-- Distributed Systems & Performance
-- Software Engineering & System Design
-- Open-source tooling and developer experience
-
-## What I’m Looking For
-Open to collaborations, internships, and roles where I can contribute to AI-driven products, distributed systems, or developer tooling. I enjoy working with small teams that iterate quickly and value clean, well-tested code.
+## Skills
+- Languages: Python, C/C++, Bash
+- ML: PyTorch, NumPy, scikit-learn
+- Systems: Linux, Docker, performance profiling
+- Tools: Git, CI/CD, basic networking
 
 ## Projects
-- Project A — Short one-line description of a noteworthy project. Replace with an actual project and link.
-- Project B — Short one-line description of another project. Replace with an actual project and link.
+- project-1 — Short description (replace with repo link and 1-line summary).
+- project-2 — Short description (replace with repo link and 1-line summary).
 
-(Replace the placeholders above with links to your repositories or project pages to showcase your work.)
+(Replace the placeholders above with actual repo links and concise summaries to showcase your work.)
+
+## Looking for
+- Internships, mentorship, or collaborative projects in systems engineering or ML.
 
 ## Contact
-- Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/yourprofile  
-- Twitter: @yourhandle (optional)
+- Email: your.email@example.com (or remove if you prefer not to publish)
+- LinkedIn: https://www.linkedin.com/in/yourprofile
 
-## Pronouns
-Kush
-
----
-
-If you’d like, I can:
-- Fill in the Projects section with real repo links and descriptions (just share which repos to highlight).  
-- Add GitHub stats, a photo, or badges.  
-- Rewrite the summary for a specific role (e.g., ML engineer, systems engineer, SRE).
+Pronouns: Kush
