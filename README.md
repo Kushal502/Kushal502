@@ -1,8 +1,7 @@
-<h1 align="center">Kushal Basnet</h1>
-
+<!-- Animated header, served from this repo rather than a third-party
+     renderer, so it can't break when someone else's free tier runs out. -->
 <p align="center">
-  Second-year <strong>Computing Systems</strong> student at Ulster University, London.<br>
-  Building across the stack — and going deep on networking and traffic analysis.
+  <img src="https://raw.githubusercontent.com/Kushal502/Kushal502/main/header.svg" alt="Kushal Basnet — Computing Systems, Ulster University London — networking, traffic analysis, full-stack" width="100%">
 </p>
 
 <p align="center">
