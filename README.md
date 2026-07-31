@@ -72,6 +72,20 @@ Also part of my coursework, though not in a repo: an **SSL/TLS traffic analysis*
 
 ---
 
+<div align="center">
+
+<!-- Regenerated daily by .github/workflows/snake.yml; the picture element
+     serves the dark variant automatically to dark-mode visitors. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kushal502/Kushal502/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kushal502/Kushal502/output/snake-light.svg">
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Kushal502/Kushal502/output/snake-light.svg">
+</picture>
+
+</div>
+
+---
+
 <p align="center">
   <a href="https://kushalbasnet.com">kushalbasnet.com</a> ·
   <a href="https://www.linkedin.com/in/kushal502">LinkedIn</a> ·
